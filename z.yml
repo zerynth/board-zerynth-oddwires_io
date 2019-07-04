@@ -1,0 +1,15 @@
+---
+description: Add support for oddWires IO
+fullname: board.zerynth.oddwires_io
+info:
+    board: oddWires IO
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+- oddwires
+title: oddWires IO Support Package
+...
